@@ -1,1 +1,2 @@
 验证git  pull
+验证git  fetch    从远程获取最新版本到本地，不会自动merge

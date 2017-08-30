@@ -1,1 +1,3 @@
 git commit --amend #修改最后一次提交记录
+
+git shortlog #找出最懒的程序员
